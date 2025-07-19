@@ -1,22 +1,29 @@
 # Amazon Clone Application using React JS
 
+A clean **Amazon front-end clone** built with ReactJS to improve e-commerce workflows, routing, and cart management.
+
+---
+
+## Features
+
+✅ **Product Listing:** Show products with photos, prices, and descriptions
+✅ **Add to Cart:** Smooth cart management and instant updates
+✅ **React Router:** Browse between pages without reload
+✅ **Clean UI:** Streamlined layout replicating e-commerce layout
+✅ **Responsive Design:** Device functionality
+
+---
+
+## Screenshots
+
 <img src="https://github.com/Subhampreet/Amazon-Clone-ReactJS/blob/main/public/amazon-head.png">
+---
 
-### Features
+## Tech Stack
 
-Here's the feature's included in this project
+- **ReactJS** (functional components & hooks)
+- **React Router** for page navigation
+- **CSS** for styling
 
-- 🌐 FULL Ecommerce functionality which includes both back-end and front-end
-- 👨‍👩‍👧‍👦 Login Page
-- 📦 Products Page
-- 🛒 Cart and Checkout Page
-- 💳 REAL Payments (Stripe Credit Card Payments)
-- 📝 Order History Page (Real time database)
-- ❄ Awesome animations like React Hover effects 
-
-### Referances
-
-- [Amazon Clone Application Using React JS -  Video Tutorial](https://www.youtube.com/watch?v=RDV3Z1KCBvo&t=6005s)
-- [The Amazon Clone Written Guide](https://medium.com/cleverprogrammer/amazon-clone-using-react-the-ultimate-guide-fba2b36f3458)
-
+---
 
